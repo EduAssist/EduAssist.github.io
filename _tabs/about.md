@@ -7,12 +7,8 @@ img_path: /assets/img/
 
 # 留学帮！帮你冲到终点
 
-![post](post.png)
-
 > 关于我们
 {: .prompt-info }
-
-
 
 本硕博：同济大学 软件工程
 
@@ -21,3 +17,8 @@ img_path: /assets/img/
 研究方向:   机器学习、软件工程
 
 **联系我们：微信：wxid_jqbci9sd9i2s22** 
+
+![post](post.png)
+
+
+
