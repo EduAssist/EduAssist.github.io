@@ -22,7 +22,7 @@ img_path: /assets/img/
 
 已经完成项目：FIT2004，CS272，CIS 22C, MIT6.824等
 
-**联系我们：微信：edu_assist_pro** 
+**联系我们：微信号：edu_assist_pro** 
 
 ![post](post.png)
 
