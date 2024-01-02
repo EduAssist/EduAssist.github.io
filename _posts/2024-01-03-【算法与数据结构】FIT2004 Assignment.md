@@ -1,5 +1,5 @@
 ---
-title: 2024-01-03-【算法与数据结构】FIT2004 Assignment
+title: 【算法与数据结构】FIT2004 Assignment
 date: 2024-01-03
 categories:
 tags: [算法与数据结构,Python]
@@ -36,11 +36,11 @@ img_path: /assets/img/
 4.  作业根据**测试用例通过率**+**文档详细程度**
     算分**，**客户希望尽量拿到90分以上（满分100）。
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image1.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image1.png)
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image2.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image2.png)
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image3.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image3.png)
 
 辅导过程
 ========
@@ -54,13 +54,13 @@ img_path: /assets/img/
 
 为了让同学理解建模过程，专门做了PPT给同学讲解。把原始问题一步步拆解转换为网络流的Max-flow问题求解。
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image4.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image4.png)
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image5.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image5.png)
 
 下面是我们做的讲解PPT
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image6.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image6.png)
 
 测试用例构造
 ------------
@@ -74,14 +74,14 @@ img_path: /assets/img/
 
 由于最后打分还需要根据文档详细程度打分，为了能拿高分，文档也是尽可能的多写一点
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image7.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image7.png)
 
 客户评价与满意度
 ================
 
 最后拿到满分
 
-![descript](.\【算法与数据结构】FIT2004 Assignment_media/media/image8.png)
+![descript](【算法与数据结构】FIT2004 Assignment_media/media/image8.png)
 
 付款金额
 ========
